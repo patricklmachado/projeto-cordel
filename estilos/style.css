@@ -81,12 +81,12 @@ section.imagem > p{
 }
 
 section#img01{
-    background-image: url('../imagens/background001.jpg');
+    background-image: url('https://live.staticflickr.com/65535/52592033850_bd18c0dd0d_c.jpg');
     background-position: right center;
 }
 
 section#img02{
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('https://live.staticflickr.com/65535/52592127628_4e70d803c1_c.jpg');
     background-position: right center;
 }
 
